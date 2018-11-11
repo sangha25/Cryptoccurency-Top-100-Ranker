@@ -29,3 +29,4 @@ while nr_coins < len(listings_data):
                             coin['percent_change_7d']])
 
         nr_coins += 100
+print(table)
